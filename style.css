@@ -39,8 +39,9 @@ html{
     flex-wrap: wrap;
 }
 #content .box{
+    width: 300px;
     padding: 10px 20px;
-    margin: 10px 0;
+    margin: 32px 20px;
     background: rgb(255, 211, 130);
     border-radius: 10px;
     display: flex;
@@ -54,7 +55,7 @@ html{
     height: 100%;
 }
 #content .box img{
-    width: 100%;
+    width: 200px;
     height: 100%;
 }
 #content .box .title{
